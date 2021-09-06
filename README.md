@@ -1,6 +1,6 @@
 ## Bio - Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently attending the seventh period in the Information Systems course. I currently work as a backend intern at a company in the region where I live. I like so view Animes, I have a hobby of watching anime, listening to rock music, playing video games, preferably MMORPG.
+My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently attending the seventh period in the Information Systems course. I currently work as a backend intern at a company in the region where I live. I have a hobby of watching anime, listening to rock music, playing video games, preferably MMORPG.
 
 ## 📝 Detailed information
 
