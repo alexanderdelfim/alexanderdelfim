@@ -44,6 +44,6 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ## 📈GitHub Stats
 
 ![Alexander Delfim Github Stats](https://github-readme-stats.vercel.app/api?username=alexanderdelfim&show_icons=true&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdelfim&layout=compact&show_icons=true&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdelfim&layout=compact&show_icons=true&theme=omni&langs_count=8)
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
