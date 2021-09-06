@@ -41,7 +41,7 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📈 GitHub Stats
+## 🌟 GitHub Stats
 
 ![Alexander Delfim Github Stats](https://github-readme-stats.vercel.app/api?username=alexanderdelfim&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdelfim&layout=compact&show_icons=true&theme=omni&langs_count=8)
