@@ -9,7 +9,7 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 * Living in: Betim, Minas Gerais, Brazil.
 * University: Centro Universitario UNA,
 
-## My social links
+## 🌐My social links
 
 <a href="https://www.linkedin.com/in/alexander-delfim-807154182/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/AlexanderDelfim">![Twitter](https://img.shields.io/badge/alexanderdelfim-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -30,7 +30,7 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Tools
+## 🔧Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
