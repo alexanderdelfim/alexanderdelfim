@@ -2,20 +2,20 @@
 
 My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently attending the seventh period in the Information Systems course. I currently work as a backend intern at a company in the region where I live. I like so view Animes, I have a hobby of watching anime, listening to rock music, playing video games, preferably MMORPG.
 
-## 📝Detailed information
+## 📝 Detailed information
 
 * Name: Alexander Delfim Ribeiro da Costa Junior
 * Age: 23
 * Living in: Betim, Minas Gerais, Brazil.
 * University: Centro Universitario UNA,
 
-## 🌐My social links
+## 🌐 My social links
 
 <a href="https://www.linkedin.com/in/alexander-delfim-807154182/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/AlexanderDelfim">![Twitter](https://img.shields.io/badge/alexanderdelfim-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.facebook.com/alexander.delfim">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
-## 💻Technologies & Frameworks
+## 💻 Technologies & Frameworks
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +30,7 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 🔧Tools
+## 🔧 Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,7 +41,7 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## 📈GitHub Stats
+## 📈 GitHub Stats
 
 ![Alexander Delfim Github Stats](https://github-readme-stats.vercel.app/api?username=alexanderdelfim&show_icons=true&theme=omni)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdelfim&layout=compact&show_icons=true&theme=omni&langs_count=8)
