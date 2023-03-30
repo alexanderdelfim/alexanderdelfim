@@ -5,9 +5,9 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 ## 📝 Detailed information
 
 * Name: Alexander Delfim Ribeiro da Costa Junior
-* Age: 23
+* Age: 24
 * Living in: Betim, Minas Gerais, Brazil.
-* University: Centro Universitario UNA,
+* University: Centro Universitario UNA
 
 ## 🌐 My social links
 
