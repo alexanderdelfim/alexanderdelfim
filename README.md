@@ -13,7 +13,6 @@ My name is Alexander Delfim, i'm a Brazilian BackEnd Developer, i'm currently at
 
 <a href="https://www.linkedin.com/in/alexander-delfim-807154182/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/AlexanderDelfim">![Twitter](https://img.shields.io/badge/alexanderdelfim-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.facebook.com/alexander.delfim">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
 ## 💻 Technologies & Frameworks
 
